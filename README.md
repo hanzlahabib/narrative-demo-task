@@ -1,5 +1,5 @@
 # demo-task
-### For quick feel: [Demo-Task](https://61eab9bc26a94000079e9891--narrative-demo-task.netlify.app/)
+### For quick feel: [Demo-Task](https://narrative-demo-task.netlify.app/)
 ## Project setup
 ```
 npm install
