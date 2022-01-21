@@ -6,7 +6,7 @@
     <v-spacer></v-spacer>
     <v-toolbar-items class="buttonContainer">
       <v-btn
-        flat
+        text
         v-for="item in menuItems"
         :key="item.title"
         :to="item.path"
